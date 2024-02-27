@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533838227281",
+    "project_id": "flutter-api-yungshop",
+    "storage_bucket": "flutter-api-yungshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533838227281:android:ded7cfa317876c82119570",
+        "android_client_info": {
+          "package_name": "com.example.nguyen_manh_dung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZrwbUterr4EeGL86azZip2wd-QicP8ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
